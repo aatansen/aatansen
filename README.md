@@ -1,25 +1,5 @@
-<style>
-.wave {
-  animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */
-  animation-duration: 2.5s;        /* Change to speed up or slow down */
-  animation-iteration-count: infinite;  /* Never stop waving :) */
-  transform-origin: 70% 70%;       /* Pivot around the bottom-left palm */
-  display: inline-block;
-}
-
-@keyframes wave-animation {
-    0% { transform: rotate( 0.0deg) }
-   10% { transform: rotate(14.0deg) }  /* The following five values can be played with to make the waving more or less extreme */
-   20% { transform: rotate(-8.0deg) }
-   30% { transform: rotate(14.0deg) }
-   40% { transform: rotate(-4.0deg) }
-   50% { transform: rotate(10.0deg) }
-   60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
-  100% { transform: rotate( 0.0deg) }
-}
-</style>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center" >Hi <span class="wave">👋</span>, I'm Tansen</h1>
+<h1 align="center">Hi <span class="wave">👋</span>, I'm Tansen</h1>
 <h3 align="center">
 <a href="https://github.com/aatansen/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=aatansen"></a>
 <a href="https://github.com/aatansen?tab=followers"><img src="https://img.shields.io/github/followers/aatansen?label=Followers&style=social" alt="GitHub Badge"></a>
