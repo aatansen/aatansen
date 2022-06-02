@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <style>
   .wave {
   animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */
@@ -24,9 +25,16 @@
 <a href="https://github.com/aatansen/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=aatansen"></a>
 <a href="https://github.com/aatansen?tab=followers"><img src="https://img.shields.io/github/followers/aatansen?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://twitter.com/aatansen" target="blank"><img src="https://img.shields.io/twitter/follow/aatansen?style=social" alt="aatansen" /></a></h3>
+=======
+### Hi there 👋
 
-## 🙋‍♂️ About Me
+<!--
+**aatansen/aatansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>>>>>>> parent of d8b4f5f (Update README.md)
 
+Here are some ideas to get you started:
+
+<<<<<<< HEAD
 - 🚀 I’m currently learning **[JavaScript](https://github.com/aatansen/Modern-Javascript/)** , **[Python](https://github.com/aatansen/100-days-of-python/)** , **[C++](https://github.com/aatansen/Deep-Dive-in-CPP/)**
 
 - 🚀 I’m interested in **Web Development**
@@ -90,3 +98,14 @@
 <a href = "https://www.facebook.com/aatansen"><img src="https://img.icons8.com/fluency/50/000000/facebook.png"/></a>
 
 </p>
+=======
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> parent of d8b4f5f (Update README.md)
