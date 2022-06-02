@@ -1,16 +1,35 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<style>
+  .wave {
+  animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */
+  animation-duration: 2.5s;        /* Change to speed up or slow down */
+  animation-iteration-count: infinite;  /* Never stop waving :) */
+  transform-origin: 70% 70%;       /* Pivot around the bottom-left palm */
+  display: inline-block;
+}
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tansen</h1>
+@keyframes wave-animation {
+    0% { transform: rotate( 0.0deg) }
+   10% { transform: rotate(14.0deg) }  /* The following five values can be played with to make the waving more or less extreme */
+   20% { transform: rotate(-8.0deg) }
+   30% { transform: rotate(14.0deg) }
+   40% { transform: rotate(-4.0deg) }
+   50% { transform: rotate(10.0deg) }
+   60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
+  100% { transform: rotate( 0.0deg) }
+}
+</style>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi <span class="wave">👋</span>, I'm Tansen</h1>
 <h3 align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=aatansen"></a>
+<a href="https://github.com/aatansen/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=aatansen"></a>
 <a href="https://github.com/aatansen?tab=followers"><img src="https://img.shields.io/github/followers/aatansen?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://twitter.com/aatansen" target="blank"><img src="https://img.shields.io/twitter/follow/aatansen?style=social" alt="aatansen" /></a></h3>
 
 ## 🙋‍♂️ About Me
 
-- 🚀 I’m currently working on **[Python](https://github.com/aatansen/100-days-of-python/)**
+- 🚀 I’m currently learning **[JavaScript](https://github.com/aatansen/Modern-Javascript/)** , **[Python](https://github.com/aatansen/100-days-of-python/)** , **[C++](https://github.com/aatansen/Deep-Dive-in-CPP/)**
 
-- 🚀 I’m currently learning **Data Science.**
+- 🚀 I’m interested in **Web Development**
 
 - 🚀 I’m looking to collaborate on **OpenSource Projects**
 
@@ -66,7 +85,6 @@
 ## Connect with me:
 
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/aatansen/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/aatansen"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.facebook.com/aatansen"><img src="https://img.icons8.com/fluency/50/000000/facebook.png"/></a>
