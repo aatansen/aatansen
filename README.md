@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://i.imgur.com/Rzt42mC.gif" width="450px" height="auto">
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="450px" height="auto">
 </div>
 <h1 align="center">𝐇𝐢<img src="https://i.imgur.com/7YRSdku.gif" width="30px" height="30px" />, 𝐈'𝐦 𝐓𝐚𝐧𝐬𝐞𝐧</h1>
 <h3 align="center">
