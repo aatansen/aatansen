@@ -21,9 +21,9 @@
 
 - <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m looking to collaborate on **OpenSource Projects**
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> All of my projects are available at **My Portfolio (Loading<img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3106_9qTxA57k7StZYhBXKh2beVpviSqO5Anr.gif" height="15px"/>)**
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> All of my projects are available at **My Portfolio (Loading<img src="https://github.com/aatansen/aatansen/blob/main/img/4.gif" height="15px"/>)**
 
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/4.gif" height="25px"/> Languages and Tools:
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/5.gif" height="25px"/> Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -48,7 +48,7 @@
     </a>
 </p>
 
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/5.gif" height="25px"/> My Github Stats
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
 
 <br/>
 <a href="https://github.com/aatansen/github-readme-stats"><img alt="Tansen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aatansen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -57,11 +57,11 @@
 
 <a href="https://github.com/aatansen/github-readme-activity-graph"><img alt="Tansen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aatansen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> Achievement
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aatansen" alt="aatansen" /></a> </p>
 
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Connect with me:
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/8.gif" height="25px"/> Connect with me:
 
 <p align="left">
 
@@ -70,7 +70,7 @@
 <a href = "https://www.facebook.com/aatansen"><img src="https://img.icons8.com/fluency/50/000000/facebook.png"/></a>
 </br>
 <div align="center">
-<i>Random dev joke<img src="https://github.com/aatansen/aatansen/blob/main/img/8.gif" height="25px"/></i><br>
+<i>Random dev joke<img src="https://github.com/aatansen/aatansen/blob/main/img/9.gif" height="25px"/></i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
 </p>
