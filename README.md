@@ -19,7 +19,7 @@
 
 - <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in **Web Development**
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m looking to collaborate on **OpenSource Projects**
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> My learning platform **[Udemy Profile](https://www.udemy.com/user/tansen-3/)**
 
 - <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> All of my projects are available at **[My Portfolio](https://aatansen.github.io)**<img src="https://github.com/aatansen/aatansen/blob/main/img/4.gif" height="15px"/>
 
