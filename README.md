@@ -23,6 +23,10 @@
 
 - <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> All of my projects are available at **[My Portfolio](https://aatansen.github.io)**<img src="https://github.com/aatansen/aatansen/blob/main/img/4.gif" height="15px"/>
 
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/10.gif" height="25px"/> This week I spent my time on:
+
+![Time Spent](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aatansen&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/5.gif" height="25px"/> Languages and Tools:
 
 <p align="left"> 
