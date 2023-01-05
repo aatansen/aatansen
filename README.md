@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Always+Learning+New+Things;Playing+Games;Developing+Problem+Solving+Skills;Critical+Thinker&center=true">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Learning+New+Things;Playing+Games;Developing+Problem+Solving+Skills;Critical+Thinker&center=true">
 </p>
 
 <h3 align="center">
@@ -15,11 +15,11 @@
 
 - <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m devoloping my skills on **[JavaScript](https://github.com/aatansen/Modern-Javascript/)** , **[Python](https://github.com/aatansen/100-days-of-python/)** , **[C++](https://github.com/aatansen/Deep-Dive-in-CPP/)**
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning **Problem Solving**
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning **[ReactJS](https://github.com/aatansen/React-Js-Development/)**
 
 - <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in **Web Development**
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> My learning platform **[Udemy Profile](https://www.udemy.com/user/tansen-3/)**
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> My Profile on **[Udemy](https://www.udemy.com/user/tansen-3/)**, **[Coursera](https://www.coursera.org/user/9ec96c12a6434c39d47f5644f7d71d68/)**, **[Academia](https://eub.academia.edu/MdAlahiAlminTansen)**
 
 - <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> All of my projects are available at **[My Portfolio](https://aatansen.github.io)**<img src="https://github.com/aatansen/aatansen/blob/main/img/4.gif" height="15px"/>
 
@@ -34,23 +34,23 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/aatansen/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tansen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aatansen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/aatansen?tab=repositories">
+        <img alt="Tansen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aatansen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
 
 <br/>
-<a href="https://github.com/aatansen/github-readme-stats"><img alt="Tansen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aatansen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/aatansen/github-readme-stats"><img alt="Tansen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatansen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/aatansen?tab=repositories"><img alt="Tansen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aatansen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/aatansen?tab=repositories"><img alt="Tansen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatansen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 
-<a href="https://github.com/aatansen/github-readme-activity-graph"><img alt="Tansen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aatansen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/aatansen?tab=repositories"><img alt="Tansen's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=aatansen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aatansen" alt="aatansen" /></a> </p>
+<p align="left"> <a href="https://github.com/aatansen?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=aatansen" alt="Tansen's Trophy" /></a> </p>
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/8.gif" height="25px"/> Connect with me:
 
@@ -62,6 +62,6 @@
 </br>
 <div align="center">
 <i>Random dev joke<img src="https://github.com/aatansen/aatansen/blob/main/img/9.gif" height="25px"/></i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<a href="https://github.com/aatansen?tab=repositories"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
 </p>
