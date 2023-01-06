@@ -3,7 +3,9 @@
 </div>
 
 <p align="center">
+<a href="https://github.com/aatansen?tab=repositories">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Learning+New+Things;Playing+Games;Developing+Problem+Solving+Skills;Critical+Thinker&center=true">
+</a>
 </p>
 
 <h3 align="center">
