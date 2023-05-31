@@ -17,9 +17,9 @@
 
 - <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m devoloping my skills on **[JavaScript](https://github.com/aatansen/Modern-Javascript/)** , **[Python](https://github.com/aatansen/100-days-of-python/)** , **[C++](https://github.com/aatansen/Deep-Dive-in-CPP/)**
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning **[ReactJS](https://github.com/aatansen/React-Js-Development/)**
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning **[Machine Learning](https://github.com/aatansen/Machine-Learning-Data-Science-Bootcamp/)**
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in **Web Development**
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in **Machine Learning**,**Deep Learning**,**Web Development**
 
 - <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> My Profile on **[Udemy](https://www.udemy.com/user/tansen-3/)**, **[Coursera](https://www.coursera.org/user/9ec96c12a6434c39d47f5644f7d71d68/)**, **[Academia](https://eub.academia.edu/MdAlahiAlminTansen)**
 
@@ -52,7 +52,7 @@
 <a href="https://github.com/aatansen?tab=repositories"><img alt="Tansen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatansen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 
-<a href="https://github.com/aatansen?tab=repositories"><img alt="Tansen's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=aatansen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/aatansen?tab=repositories"><img alt="Tansen's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aatansen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
 
