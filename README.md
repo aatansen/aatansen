@@ -21,7 +21,7 @@
 
 - <img src="assets/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I’m interested in **Machine Learning**,**Deep Learning**,**Web Development**
 
-- <img src="assets/images/Rocket.webp" alt="Rocket" width="25" height="25" /> All of my projects are available at **[My Portfolio](https://aatansen.github.io)**<img src="assets/images/Fire.webp" alt="Fire" width="15" height="15" />
+- <img src="assets/images/Rocket.webp" alt="Rocket" width="25" height="25" /> All of my projects are available at **[My Portfolio](https://aatansen.github.io)**<img src="assets/images/fire.webp" alt="Fire" width="15" height="15" />
 
 ## <img src="assets/images/Cloud.webp" alt="Cloud" width="25" height="25" /> This week I spent my time on
 ![Time Spent](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aatansen&hide_title=true&hide_border=true&bg_color=00000000&text_color=777)
