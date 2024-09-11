@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="450px" height="auto">
+<img src="assets/icons/tansen.svg" width="450px" height="auto" alt='Tansen'>
 </div>
 
 <p align="center">
@@ -13,52 +13,62 @@
 <a href="https://github.com/aatansen?tab=followers"><img src="https://img.shields.io/github/followers/aatansen?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://twitter.com/aatansen" target="blank"><img src="https://img.shields.io/twitter/follow/aatansen?style=social" alt="aatansen" /></a></h3>
 
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/2.gif" height="25px"/> About Me
+## <img src="assets/images/Face%20In%20Clouds.webp" alt="Face In Clouds" width="25" height="25" /> About Me
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m devoloping my skills on **[JavaScript](https://github.com/aatansen/Modern-Javascript/)** , **[Python](https://github.com/aatansen/100-days-of-python/)** , **[C++](https://github.com/aatansen/Deep-Dive-in-CPP/)**
+- <img src="assets/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I’m devoloping my skills on JavaScript , Python , C++
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning **[Machine Learning](https://github.com/aatansen/Machine-Learning-Data-Science-Bootcamp/)**
+- <img src="assets/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I’m currently learning Backend Development
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in **Machine Learning**,**Deep Learning**,**Web Development**
+- <img src="assets/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I’m interested in **Machine Learning**,**Deep Learning**,**Web Development**
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> My Profile on **[Udemy](https://www.udemy.com/user/tansen-3/)**, **[Coursera](https://www.coursera.org/user/9ec96c12a6434c39d47f5644f7d71d68/)**, **[Academia](https://eub.academia.edu/MdAlahiAlminTansen)**
+- <img src="assets/images/Rocket.webp" alt="Rocket" width="25" height="25" /> All of my projects are available at **[My Portfolio](https://aatansen.github.io)**<img src="assets/images/Fire.webp" alt="Fire" width="15" height="15" />
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> All of my projects are available at **[My Portfolio](https://aatansen.github.io)**<img src="https://github.com/aatansen/aatansen/blob/main/img/4.gif" height="15px"/>
-
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/10.gif" height="25px"/> This week I spent my time on:
-
+## <img src="assets/images/Cloud.webp" alt="Cloud" width="25" height="25" /> This week I spent my time on
 ![Time Spent](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aatansen&hide_title=true&hide_border=true&bg_color=00000000&text_color=777)
 
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/5.gif" height="25px"/> Languages and Tools:
+## <img src="assets/images/Dizzy.webp" alt="Dizzy" width="25" height="25" /> Skills
+| **#** | **Language/Tools** | **Proficiency** |
+| :------------------------------------------------------------------------------------------------------------: | :----------: | :-------------------------------------------------------------------: |
+|<a href="https://stackoverflow.com/"><img src="assets/icons/stackoverflow.svg" width="25">| `CTRL+C & CTRL+V`|<img src="assets/images/thunder.webp" alt="Mastery" width="25">|
+|<a href="https://code.visualstudio.com/"><img src="assets/icons/vscode.svg" width="25">| `VsCode`|<img src="assets/images/thunder.webp" alt="Mastery" width="25">|
+| <a href="https://www.cprogramming.com/"><img src="assets/icons/c.svg" width="25"></a> | `C` | <img src="assets/images/dead.webp" alt="Advance" width="25"> |
+| <a href="https://cplusplus.com/"><img src="assets/icons/cplusplus.svg" width="25"></a> | `C++` | <img src="assets/images/dead.webp" alt="Advance" width="25"> |
+| <a href="https://www.java.com/en/"><img src="assets/icons/java.svg" width="25"></a> | `Java` | <img src="assets/images/dead.webp" alt="Advance" width="25"> |
+| <a href="https://www.php.net/"><img src="assets/icons/php.svg" width="25"></a> | `PHP` | <img src="assets/images/dead.webp" alt="Advance" width="25"> |
+|<a href="https://html5.org/"><img src="assets/icons/html5.svg" width="25"></a> | `HTML5`|<img src="assets/images/fire.webp" alt="Advance" width="25"> |
+|<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css3.svg" width="25"></a> | `CSS`|<img src="assets/images/fire.webp" alt="Advance" width="25"> |
+|<a href="https://getbootstrap.com/"><img src="assets/icons/bootstrap.svg" width="25"></a> | `Bootstrap`|<img src="assets/images/fire.webp" alt="Advance" width="25"> |
+|<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="25"></a>|`JavaScript` | <img src="assets/images/processing.webp" alt="Advance" width="25">|
+|<a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="25">| `Git`|<img src="assets/images/thunder.webp" alt="Mastery" width="25">|
+|<a href="https://www.python.org/"><img src="assets/icons/python.svg" width="25"></a> | `Python`|<img src="assets/images/fire.webp" alt="Advance" width="25"> |
+|<a href="https://www.djangoproject.com/"><img src="assets/icons/django.svg" width="25"></a>|`Django`|<img src="assets/images/fire.webp" alt="Advance" width="25">|
+|<a href="https://nodejs.org/"><img src="assets/icons/nodejs.svg" width="25"></a> | `NodeJS`| <img src="assets/images/loading.webp" alt="Beginner" width="25">|
+| <a href="https://expressjs.com/"><img src="assets/icons/express.svg" width="25"></a>| `ExpressJS`| <img src="assets/images/loading.webp" alt="Beginner" width="25">|
+|<a href="https://reactjs.org/"><img src="assets/icons/react.svg" width="25"></a> | `ReactJS` | <img src="assets/images/loading.webp" alt="Beginner" width="25">|
+| <a href="https://nextjs.org/"><img src="assets/icons/nextjs.svg" width="25"></a>|`NextJS` | <img src="assets/images/loading.webp" alt="Beginner" width="25">|
 
-<p align="left"> 
-
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com) [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org) [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org) [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html5.org) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com) [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) 
-    
-</p>
-
-<br/>
+## <img src="assets/images/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> My Github Stats
 
 <p align="center">
     <a href="https://github.com/aatansen?tab=repositories">
         <img alt="Tansen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aatansen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+<table>
+  <tr>
+    <td style="padding: 5px;"><a href="https://github.com/aatansen?tab=repositories"><img alt="Tansen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aatansen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></td>
+    <td style="padding: 10px;"><a href="https://github.com/aatansen?tab=repositories"><img alt="Tansen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatansen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding: 5px;"><a href="https://github.com/aatansen?tab=repositories"><img alt="Tansen's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aatansen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></td>
+  </tr>
+</table>
 
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
-
-<br/>
-<a href="https://github.com/aatansen?tab=repositories"><img alt="Tansen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aatansen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/aatansen?tab=repositories"><img alt="Tansen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatansen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-
-<a href="https://github.com/aatansen?tab=repositories"><img alt="Tansen's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aatansen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
+## <img src="assets/images/Trophy.webp" alt="Trophy" width="25" height="25" /> Achievement
 
 <p align="left"> <a href="https://github.com/aatansen?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=aatansen" alt="Tansen's Trophy" /></a> </p>
 
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/8.gif" height="25px"/> Connect with me:
+## <img src="assets/images/Thought%20Balloon.webp" alt="Thought Balloon" width="25" height="25" /> Connect with me
 
 <p align="left">
 
@@ -67,7 +77,7 @@
 <a href = "https://www.facebook.com/aatansen"><img src="https://img.icons8.com/fluency/50/000000/facebook.png"/></a>
 </br>
 <div align="center">
-<i>Random dev joke<img src="https://github.com/aatansen/aatansen/blob/main/img/9.gif" height="25px"/></i><br>
+<i>Random dev joke<img src="assets/images/Ghost.webp" alt="Ghost" width="25" height="25" /></i><br>
 <a href="https://github.com/aatansen?tab=repositories"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
 </p>
