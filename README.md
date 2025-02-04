@@ -4,48 +4,50 @@
 
 <p align="center">
 <a href="https://github.com/aatansen?tab=repositories">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Learning+New+Things;Playing+Games;Developing+Problem+Solving+Skills;Critical+Thinker&center=true">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Learning+New+Things;Playing+Games;Developing+Problem+Solving+Skills;Critical+Thinker&center=true" alt="typing text">
 </a>
 </p>
 
 <h3 align="center">
-<a href="https://github.com/aatansen"><img src="https://komarev.com/ghpvc/?username=aatansen"></a>
-<a href="https://github.com/aatansen?tab=followers"><img src="https://img.shields.io/github/followers/aatansen?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/aatansen"><img src="https://komarev.com/ghpvc/?username=aatansen" alt="profile view"></a>
+<a href="https://github.com/aatansen?tab=followers"><img src="https://img.shields.io/github/followers/aatansen?label=Followers&style=social" alt="gitHub badge"></a>
 <a href="https://twitter.com/aatansen" target="blank"><img src="https://img.shields.io/twitter/follow/aatansen?style=social" alt="aatansen" /></a></h3>
 
 ## <img src="assets/images/Face%20In%20Clouds.webp" alt="Face In Clouds" width="25" height="25" /> About Me
 
-- <img src="assets/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I’m devoloping my skills on JavaScript , Python , C++
+- <img src="assets/images/Rocket.webp" alt="rocket" width="25" height="25" /> I’m devoloping my skills on JavaScript , Python , C++
 
-- <img src="assets/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I’m currently learning Backend Development
+- <img src="assets/images/Rocket.webp" alt="rocket" width="25" height="25" /> I’m currently learning Backend Development
 
-- <img src="assets/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I’m interested in **Machine Learning**,**Deep Learning**,**Web Development**
+- <img src="assets/images/Rocket.webp" alt="rocket" width="25" height="25" /> I’m interested in **Machine Learning**,**Deep Learning**,**Web Development**
 
-- <img src="assets/images/Rocket.webp" alt="Rocket" width="25" height="25" /> All of my projects are available at **[My Portfolio](https://aatansen.github.io)**<img src="assets/images/fire.webp" alt="Fire" width="15" height="15" />
+- <img src="assets/images/Rocket.webp" alt="rocket" width="25" height="25" /> All of my projects are available at **[My Portfolio](https://aatansen.github.io)**<img src="assets/images/fire.webp" alt="Fire" width="15" height="15" />
 
-## <img src="assets/images/Cloud.webp" alt="Cloud" width="25" height="25" /> This week I spent my time on
+## <img src="assets/images/Cloud.webp" alt="cloud" width="25" height="25" /> This week I spent my time on
+
 ![Time Spent](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aatansen&hide_title=true&hide_border=true&bg_color=00000000&text_color=777)
 
 ## <img src="assets/images/Dizzy.webp" alt="Dizzy" width="25" height="25" /> Skills
-| **#** | **Language/Tools** | **Proficiency** |
-| :------------------------------------------------------------------------------------------------------------: | :----------: | :-------------------------------------------------------------------: |
-|<a href="https://stackoverflow.com/"><img src="assets/icons/stackoverflow.svg" width="25">| `CTRL+C & CTRL+V`|<img src="assets/images/thunder.webp" alt="Mastery" width="25">|
-|<a href="https://code.visualstudio.com/"><img src="assets/icons/vscode.svg" width="25">| `VsCode`|<img src="assets/images/thunder.webp" alt="Mastery" width="25">|
-| <a href="https://www.cprogramming.com/"><img src="assets/icons/c.svg" width="25"></a> | `C` | <img src="assets/images/dead.webp" alt="Advance" width="25"> |
-| <a href="https://cplusplus.com/"><img src="assets/icons/cplusplus.svg" width="25"></a> | `C++` | <img src="assets/images/dead.webp" alt="Advance" width="25"> |
-| <a href="https://www.java.com/en/"><img src="assets/icons/java.svg" width="25"></a> | `Java` | <img src="assets/images/dead.webp" alt="Advance" width="25"> |
-| <a href="https://www.php.net/"><img src="assets/icons/php.svg" width="25"></a> | `PHP` | <img src="assets/images/dead.webp" alt="Advance" width="25"> |
-|<a href="https://html5.org/"><img src="assets/icons/html5.svg" width="25"></a> | `HTML5`|<img src="assets/images/fire.webp" alt="Advance" width="25"> |
-|<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css3.svg" width="25"></a> | `CSS`|<img src="assets/images/fire.webp" alt="Advance" width="25"> |
-|<a href="https://getbootstrap.com/"><img src="assets/icons/bootstrap.svg" width="25"></a> | `Bootstrap`|<img src="assets/images/fire.webp" alt="Advance" width="25"> |
-|<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="25"></a>|`JavaScript` | <img src="assets/images/processing.webp" alt="Advance" width="25">|
-|<a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="25">| `Git`|<img src="assets/images/thunder.webp" alt="Mastery" width="25">|
-|<a href="https://www.python.org/"><img src="assets/icons/python.svg" width="25"></a> | `Python`|<img src="assets/images/fire.webp" alt="Advance" width="25"> |
-|<a href="https://www.djangoproject.com/"><img src="assets/icons/django.svg" width="25"></a>|`Django`|<img src="assets/images/fire.webp" alt="Advance" width="25">|
-|<a href="https://nodejs.org/"><img src="assets/icons/nodejs.svg" width="25"></a> | `NodeJS`| <img src="assets/images/loading.webp" alt="Beginner" width="25">|
-| <a href="https://expressjs.com/"><img src="assets/icons/express.svg" width="25"></a>| `ExpressJS`| <img src="assets/images/loading.webp" alt="Beginner" width="25">|
-|<a href="https://reactjs.org/"><img src="assets/icons/react.svg" width="25"></a> | `ReactJS` | <img src="assets/images/loading.webp" alt="Beginner" width="25">|
-| <a href="https://nextjs.org/"><img src="assets/icons/nextjs.svg" width="25"></a>|`NextJS` | <img src="assets/images/loading.webp" alt="Beginner" width="25">|
+
+|                                                                   **#**                                                                   | **Language/Tools** |                          **Proficiency**                           |
+| :---------------------------------------------------------------------------------------------------------------------------------------: | :----------------: | :----------------------------------------------------------------: |
+|              <a href="https://stackoverflow.com/"><img src="assets/icons/stackoverflow.svg" width="25" alt="Stack Overflow">              | `CTRL+C & CTRL+V`  |  <img src="assets/images/thunder.webp" alt="Mastery" width="25">   |
+|             <a href="https://code.visualstudio.com/"><img src="assets/icons/vscode.svg" width="25" alt="Visual Studio Code">              |      `VsCode`      |  <img src="assets/images/thunder.webp" alt="Mastery" width="25">   |
+|                  <a href="https://www.cprogramming.com/"><img src="assets/icons/c.svg" width="25" alt="C language"></a>                   |        `C`         |    <img src="assets/images/dead.webp" alt="Novice" width="25">     |
+|                 <a href="https://cplusplus.com/"><img src="assets/icons/cplusplus.svg" width="25" alt="C++ language"></a>                 |       `C++`        |    <img src="assets/images/dead.webp" alt="Novice" width="25">     |
+|                  <a href="https://www.java.com/en/"><img src="assets/icons/java.svg" width="25" alt="Java language"></a>                  |       `Java`       |    <img src="assets/images/dead.webp" alt="Advance" width="25">    |
+|                     <a href="https://www.php.net/"><img src="assets/icons/php.svg" width="25" alt="PHP language"></a>                     |       `PHP`        |    <img src="assets/images/dead.webp" alt="Advance" width="25">    |
+|                        <a href="https://html5.org/"><img src="assets/icons/html5.svg" width="25" alt="HTML5"></a>                         |      `HTML5`       |    <img src="assets/images/fire.webp" alt="Advance" width="25">    |
+|          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css3.svg" width="25" alt="CSS3"></a>           |       `CSS`        |    <img src="assets/images/fire.webp" alt="Advance" width="25">    |
+|                 <a href="https://getbootstrap.com/"><img src="assets/icons/bootstrap.svg" width="25" alt="Bootstrap"></a>                 |    `Bootstrap`     |    <img src="assets/images/fire.webp" alt="Advance" width="25">    |
+| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="25" alt="JavaScript"></a> |    `JavaScript`    | <img src="assets/images/processing.webp" alt="Advance" width="25"> |
+|                         <a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="25" alt="Git"></a>                          |       `Git`        |  <img src="assets/images/thunder.webp" alt="Mastery" width="25">   |
+|                     <a href="https://www.python.org/"><img src="assets/icons/python.svg" width="25" alt="Python"></a>                     |      `Python`      |    <img src="assets/images/fire.webp" alt="Advance" width="25">    |
+|                 <a href="https://www.djangoproject.com/"><img src="assets/icons/django.svg" width="25" alt="Django"></a>                  |      `Django`      |    <img src="assets/images/fire.webp" alt="Advance" width="25">    |
+|                       <a href="https://nodejs.org/"><img src="assets/icons/nodejs.svg" width="25" alt="NodeJS"></a>                       |      `NodeJS`      |  <img src="assets/images/loading.webp" alt="Beginner" width="25">  |
+|                   <a href="https://expressjs.com/"><img src="assets/icons/express.svg" width="25" alt="ExpressJS"></a>                    |    `ExpressJS`     |  <img src="assets/images/loading.webp" alt="Beginner" width="25">  |
+|                      <a href="https://reactjs.org/"><img src="assets/icons/react.svg" width="25" alt="ReactJS"></a>                       |     `ReactJS`      |  <img src="assets/images/loading.webp" alt="Beginner" width="25">  |
+|                       <a href="https://nextjs.org/"><img src="assets/icons/nextjs.svg" width="25" alt="NextJS"></a>                       |      `NextJS`      |  <img src="assets/images/loading.webp" alt="Beginner" width="25">  |
 
 ## <img src="assets/images/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> My Github Stats
 
@@ -71,10 +73,9 @@
 ## <img src="assets/images/Thought%20Balloon.webp" alt="Thought Balloon" width="25" height="25" /> Connect with me
 
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/aatansen/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/aatansen"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.facebook.com/aatansen"><img src="https://img.icons8.com/fluency/50/000000/facebook.png"/></a>
+<a href="https://www.linkedin.com/in/aatansen/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://twitter.com/aatansen"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
+<a href="https://www.facebook.com/aatansen"><img src="https://img.icons8.com/fluency/50/000000/facebook.png" alt="Facebook"/></a>
 </br>
 <div align="center">
 <i>Random dev joke<img src="assets/images/Ghost.webp" alt="Ghost" width="25" height="25" /></i><br>
