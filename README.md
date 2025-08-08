@@ -25,7 +25,7 @@
 
 ## <img src="assets/images/img3.webp" alt="img" width="25" height="25" /> This week I spent my time on
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aatansen&hide_title=true&hide_border=true&bg_color=00000000&text_color=777" alt="Time Spent"/>
@@ -38,7 +38,7 @@
 
 ## <img src="assets/images/img9.webp" alt="img" width="25" height="25" /> Skills
 
-<table>
+<table align="center">
   <tr>
     <th><div align="center"><img src="assets/images/img10.webp" alt="img" width="25" height="25" /> Programming Languages</div></th>
     <th><div align="center"><img src="assets/images/img10.webp" alt="img" width="25" height="25" /> Web Programming</div></th>
@@ -127,7 +127,6 @@
     </td>
   </tr>
 </table>
-
 
 ## <img src="assets/images/img5.webp" alt="img" width="25" height="25" /> My Github Stats
 
