@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/icons/tansen.svg" width="450px" height="auto" alt='Tansen'>
+<img src="assets/images/tansen.svg" width="450px" height="auto" alt='Tansen'>
 </div>
 
 <p align="center">
@@ -9,47 +9,109 @@
 </p>
 
 <h3 align="center">
-<a href="https://github.com/aatansen"><img src="https://komarev.com/ghpvc/?username=aatansen" alt="profile view"></a>
+<a href="https://github.com/aatansen"><img src="https://komarev.com/ghpvc/?username=aatansen" alt="Tansen's profile view"></a>
 <a href="https://github.com/aatansen?tab=followers"><img src="https://img.shields.io/github/followers/aatansen?label=Followers&style=social" alt="gitHub badge"></a>
 <a href="https://twitter.com/aatansen" target="blank"><img src="https://img.shields.io/twitter/follow/aatansen?style=social" alt="aatansen" /></a></h3>
 
-## <img src="assets/images/Face%20In%20Clouds.webp" alt="Face In Clouds" width="25" height="25" /> About Me
+## <img src="assets/images/img1.webp" alt="img" width="25" height="25" /> About Me
 
-- <img src="assets/images/Rocket.webp" alt="rocket" width="25" height="25" /> I’m devoloping my skills on JavaScript , Python , C++
+- <img src="assets/images/img2.webp" alt="img" width="25" height="25" /> I’m devoloping my skills on **C++** , **Python** , **JavaScript** , **Rust**
 
-- <img src="assets/images/Rocket.webp" alt="rocket" width="25" height="25" /> I’m currently learning Backend Development
+- <img src="assets/images/img2.webp" alt="img" width="25" height="25" /> I’m currently learning **Backend Development**
 
-- <img src="assets/images/Rocket.webp" alt="rocket" width="25" height="25" /> I’m interested in **Machine Learning**,**Deep Learning**,**Web Development**
+- <img src="assets/images/img2.webp" alt="img" width="25" height="25" /> I’m interested in **Machine Learning**,**Deep Learning**,**Web Development**
 
-- <img src="assets/images/Rocket.webp" alt="rocket" width="25" height="25" /> All of my projects are available at **[My Portfolio](https://aatansen.github.io)**<img src="assets/images/fire.webp" alt="Fire" width="15" height="15" />
+- <img src="assets/images/img2.webp" alt="img" width="25" height="25" /> All of my projects are available at **[My Portfolio](https://aatansen.github.io)**<img src="assets/images/img4.webp" alt="img" width="15" height="15" />
 
-## <img src="assets/images/Cloud.webp" alt="cloud" width="25" height="25" /> This week I spent my time on
+## <img src="assets/images/img3.webp" alt="img" width="25" height="25" /> This week I spent my time on
 
 ![Time Spent](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aatansen&hide_title=true&hide_border=true&bg_color=00000000&text_color=777)
 
-## <img src="assets/images/Dizzy.webp" alt="Dizzy" width="25" height="25" /> Skills
+![LeetCode Stats](https://leetcard.jacoblin.cool/aatansen?theme=dark&font=Montserrat&ext=activity)
 
-|                                                                   **#**                                                                   | **Language/Tools** |                          **Proficiency**                           |
-| :---------------------------------------------------------------------------------------------------------------------------------------: | :----------------: | :----------------------------------------------------------------: |
-|              <a href="https://stackoverflow.com/"><img src="assets/icons/stackoverflow.svg" width="25" alt="Stack Overflow">              | `CTRL+C & CTRL+V`  |  <img src="assets/images/thunder.webp" alt="Mastery" width="25">   |
-|             <a href="https://code.visualstudio.com/"><img src="assets/icons/vscode.svg" width="25" alt="Visual Studio Code">              |      `VsCode`      |  <img src="assets/images/thunder.webp" alt="Mastery" width="25">   |
-|                  <a href="https://www.cprogramming.com/"><img src="assets/icons/c.svg" width="25" alt="C language"></a>                   |        `C`         |    <img src="assets/images/dead.webp" alt="Novice" width="25">     |
-|                 <a href="https://cplusplus.com/"><img src="assets/icons/cplusplus.svg" width="25" alt="C++ language"></a>                 |       `C++`        |    <img src="assets/images/dead.webp" alt="Novice" width="25">     |
-|                  <a href="https://www.java.com/en/"><img src="assets/icons/java.svg" width="25" alt="Java language"></a>                  |       `Java`       |    <img src="assets/images/dead.webp" alt="Advance" width="25">    |
-|                     <a href="https://www.php.net/"><img src="assets/icons/php.svg" width="25" alt="PHP language"></a>                     |       `PHP`        |    <img src="assets/images/dead.webp" alt="Advance" width="25">    |
-|                        <a href="https://html5.org/"><img src="assets/icons/html5.svg" width="25" alt="HTML5"></a>                         |      `HTML5`       |    <img src="assets/images/fire.webp" alt="Advance" width="25">    |
-|          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css3.svg" width="25" alt="CSS3"></a>           |       `CSS`        |    <img src="assets/images/fire.webp" alt="Advance" width="25">    |
-|                 <a href="https://getbootstrap.com/"><img src="assets/icons/bootstrap.svg" width="25" alt="Bootstrap"></a>                 |    `Bootstrap`     |    <img src="assets/images/fire.webp" alt="Advance" width="25">    |
-| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="25" alt="JavaScript"></a> |    `JavaScript`    | <img src="assets/images/processing.webp" alt="Advance" width="25"> |
-|                         <a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="25" alt="Git"></a>                          |       `Git`        |  <img src="assets/images/thunder.webp" alt="Mastery" width="25">   |
-|                     <a href="https://www.python.org/"><img src="assets/icons/python.svg" width="25" alt="Python"></a>                     |      `Python`      |    <img src="assets/images/fire.webp" alt="Advance" width="25">    |
-|                 <a href="https://www.djangoproject.com/"><img src="assets/icons/django.svg" width="25" alt="Django"></a>                  |      `Django`      |    <img src="assets/images/fire.webp" alt="Advance" width="25">    |
-|                       <a href="https://nodejs.org/"><img src="assets/icons/nodejs.svg" width="25" alt="NodeJS"></a>                       |      `NodeJS`      |  <img src="assets/images/loading.webp" alt="Beginner" width="25">  |
-|                   <a href="https://expressjs.com/"><img src="assets/icons/express.svg" width="25" alt="ExpressJS"></a>                    |    `ExpressJS`     |  <img src="assets/images/loading.webp" alt="Beginner" width="25">  |
-|                      <a href="https://reactjs.org/"><img src="assets/icons/react.svg" width="25" alt="ReactJS"></a>                       |     `ReactJS`      |  <img src="assets/images/loading.webp" alt="Beginner" width="25">  |
-|                       <a href="https://nextjs.org/"><img src="assets/icons/nextjs.svg" width="25" alt="NextJS"></a>                       |      `NextJS`      |  <img src="assets/images/loading.webp" alt="Beginner" width="25">  |
+## <img src="assets/images/img9.webp" alt="img" width="25" height="25" /> Skills
 
-## <img src="assets/images/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> My Github Stats
+<table>
+  <tr>
+    <th colspan="5"><img src="assets/images/img10.webp" alt="img" width="25" height="25" /> Programming Languages</th>
+  </tr>
+  <tr>
+    <td><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skills.syvixor.com/api/icons?i=c" alt="C"></a></td>
+    <td><a href="https://isocpp.org"><img src="https://skills.syvixor.com/api/icons?i=cpp" alt="C++"></a></td>
+    <td><a href="https://www.python.org"><img src="https://skills.syvixor.com/api/icons?i=python" alt="Python"></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skills.syvixor.com/api/icons?i=js" title="Learning" alt="JavaScript"></a></td>
+    <td><a href="https://www.rust-lang.org/"><img src="https://skills.syvixor.com/api/icons?i=rust" title="Learning" alt="Rust"></a></td>
+  </tr>
+
+  <tr>
+    <th colspan="5"><img src="assets/images/img10.webp" alt="img" width="25" height="25" /> Web Programming</th>
+  </tr>
+  <tr>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skills.syvixor.com/api/icons?i=html" alt="HTML"></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skills.syvixor.com/api/icons?i=css" alt="CSS"></a></td>
+    <td><a href="https://getbootstrap.com"><img src="https://skills.syvixor.com/api/icons?i=bootstrap" alt="Bootstrap"></a></td>
+    <td><a href="https://reactjs.org"><img src="https://skills.syvixor.com/api/icons?i=react" title="Learning" alt="React"></a></td>
+    <td><a href="https://nextjs.org"><img src="https://skills.syvixor.com/api/icons?i=nextjs" title="Learning" alt="Next.js"></a></td>
+  </tr>
+
+  <tr>
+    <th colspan="5"><img src="assets/images/img10.webp" alt="img" width="25" height="25" /> Backend Frameworks</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.djangoproject.com"><img src="https://skills.syvixor.com/api/icons?i=django" title="Learning" alt="Django"></a></td>
+    <td><a href="https://nodejs.org"><img src="https://skills.syvixor.com/api/icons?i=nodejs" title="Learning" alt="Node.js"></a></td>
+    <td><a href="https://expressjs.com"><img src="https://skills.syvixor.com/api/icons?i=express" title="Learning" alt="Express"></a></td>
+    <td><a href="https://bun.com"><img src="https://skills.syvixor.com/api/icons?i=bun" title="Learning" alt="Bun"></a></td>
+    <td><a href="https://v2.tauri.app"><img src="https://skills.syvixor.com/api/icons?i=tauri" title="Learning" alt="Tauri"></a></td>
+  </tr>
+
+  <tr>
+    <th colspan="2"><img src="assets/images/img10.webp" alt="img" width="25" height="25" /> Databases</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.mysql.com"><img src="https://skills.syvixor.com/api/icons?i=mysql" title="Learning" alt="MySQL"></a></td>
+    <td><a href="https://www.sqlite.org"><img src="https://skills.syvixor.com/api/icons?i=sqlite" title="Learning" alt="SQLite"></a></td>
+  </tr>
+
+  <tr>
+    <th colspan="4"><img src="assets/images/img10.webp" alt="img" width="25" height="25" /> Dev Tools</th>
+  </tr>
+  <tr>
+    <td><a href="https://code.visualstudio.com"><img src="https://skills.syvixor.com/api/icons?i=vscode" title="Learning" alt="VSCode"></a></td>
+    <td><a href="https://git-scm.com"><img src="https://skills.syvixor.com/api/icons?i=git" title="Learning" alt="Git"></a></td>
+    <td><a href="https://stackoverflow.com"><img src="https://skills.syvixor.com/api/icons?i=stackoverflow" alt="Stack Overflow"></a></td>
+    <td><a href="https://www.notion.com/"><img src="https://skills.syvixor.com/api/icons?i=notion" alt="Notion"></a></td>
+  </tr>
+
+  <tr>
+    <th colspan="5"><img src="assets/images/img10.webp" alt="img" width="25" height="25" /> CI/CD & Deployment</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com"><img src="https://skills.syvixor.com/api/icons?i=github" title="Learning" alt="GitHub"></a></td>
+    <td><a href="https://vercel.com"><img src="https://skills.syvixor.com/api/icons?i=vercel" title="Learning" alt="Vercel"></a></td>
+    <td><a href="https://www.netlify.com"><img src="https://skills.syvixor.com/api/icons?i=netlify" title="Learning" alt="Netlify"></a></td>
+    <td><a href="https://www.cpanel.net/"><img src="https://skills.syvixor.com/api/icons?i=cpanel" title="Learning" alt="Cpanel"></a></td>
+    <td><a href="https://render.com/"><img src="https://skills.syvixor.com/api/icons?i=render" title="Learning" alt="Render"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://nginx.org/"><img src="https://skills.syvixor.com/api/icons?i=nginx" title="Learning" alt="NGINX"></a></td>
+    <td><a href="https://www.docker.com/"><img src="https://skills.syvixor.com/api/icons?i=docker" title="Learning" alt="Docker"></a></td>
+    <td><a href="https://kubernetes.io/"><img src="https://skills.syvixor.com/api/icons?i=kubernetes" title="Learning" alt="Kubernetes"></a></td>
+  </tr>
+
+  <tr>
+    <th colspan="3"><img src="assets/images/img10.webp" alt="img" width="25" height="25" /> Operating System</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.microsoft.com/en-us/windows/"><img src="https://skills.syvixor.com/api/icons?i=windows" alt="Windows"></a></td>
+    <td><a href="https://www.linux.org/"><img src="https://skills.syvixor.com/api/icons?i=linux" title="Learning" alt="Linux"></a></td>
+    <td><a href="https://www.android.com/"><img src="https://skills.syvixor.com/api/icons?i=android" alt="Android"></a></td>
+  </tr>
+</table>
+
+
+
+## <img src="assets/images/img5.webp" alt="img" width="25" height="25" /> My Github Stats
 
 <p align="center">
     <a href="https://github.com/aatansen?tab=repositories">
@@ -66,11 +128,17 @@
   </tr>
 </table>
 
-## <img src="assets/images/Trophy.webp" alt="Trophy" width="25" height="25" /> Achievement
+## <img src="assets/images/img10.webp" alt="img" width="25" height="25" /> Top Contributed Repo
+
+<a href="https://github.com/aatansen?tab=repositories">
+    <img alt="Tansen's Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=aatansen&limit=5&theme=react&hide_border=true&bg_color=0D1117&combine_all_yearly_contributions=true"/>
+</a
+
+## <img src="assets/images/img6.webp" alt="img" width="25" height="25" /> Achievement
 
 <p align="left"> <a href="https://github.com/aatansen?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=aatansen" alt="Tansen's Trophy" /></a> </p>
 
-## <img src="assets/images/Thought%20Balloon.webp" alt="Thought Balloon" width="25" height="25" /> Connect with me
+## <img src="assets/images/img7.webp" alt="img" width="25" height="25" /> Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/aatansen/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -78,7 +146,7 @@
 <a href="https://www.facebook.com/aatansen"><img src="https://img.icons8.com/fluency/50/000000/facebook.png" alt="Facebook"/></a>
 </br>
 <div align="center">
-<i>Random dev joke<img src="assets/images/Ghost.webp" alt="Ghost" width="25" height="25" /></i><br>
+<i>Random dev joke<img src="assets/images/img8.webp" alt="img" width="25" height="25" /></i><br>
 <a href="https://github.com/aatansen?tab=repositories"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
 </p>
