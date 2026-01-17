@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/aatansen?tab=repositories">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;AI+Enthusiast;Deep+Learning+Researcher;Building+Intelligent+Systems&center=true" alt="typing text">
+<img src="https://readme-typing-svg.herokuapp.com?lines=CSE+Graduate;Learning+ML+and+AI;APIs+with+Django%2C+Flask%2C+FastAPI;Project-Driven+Development&center=true" alt="typing text">
 </a>
 </p>
 
@@ -15,17 +15,13 @@
 
 ## <img src="assets/images/img1.webp" alt="img" width="25" height="25" /> About Me
 
-- <img src="assets/images/img2.webp" alt="img" width="25" height="25" /> Machine Learning Engineer specializing in **Deep Learning**, **NLP**, and **Computer Vision**
-
-- <img src="assets/images/img2.webp" alt="img" width="25" height="25" /> Building AI systems with **PyTorch**, **TensorFlow**, and **scikit-learn**
-
-- <img src="assets/images/img2.webp" alt="img" width="25" height="25" /> Deploying ML models as APIs using **FastAPI**, **Flask**, and **Django**
-
-- <img src="assets/images/img2.webp" alt="img" width="25" height="25" /> Exploring **LLMs**, **Transformers**, **Reinforcement Learning**, and **Neural Networks**
-
-- <img src="assets/images/img2.webp" alt="img" width="25" height="25" /> Proficient in **Python**, **C++**, and **Rust** for high-performance ML applications
-
-- <img src="assets/images/img2.webp" alt="img" width="25" height="25" /> All of my projects are available at **[My Portfolio](https://aatansen.github.io)**<img src="assets/images/img4.webp" alt="img" width="15" height="15" />
+- <img src="assets/images/img2.webp" alt="img" width="25" height="25" />Learning **Machine Learning** and **Deep Learning** through hands-on projects and experimentation
+- <img src="assets/images/img2.webp" alt="img" width="25" height="25" />Exploring areas like **NLP**, **Computer Vision**, and **Neural Networks** at my own pace
+- <img src="assets/images/img2.webp" alt="img" width="25" height="25" />Building small-to-medium projects using **Python** and popular **ML libraries**
+- <img src="assets/images/img2.webp" alt="img" width="25" height="25" />Practicing model training and evaluation using **PyTorch**, **TensorFlow**, and **scikit-learn**
+- <img src="assets/images/img2.webp" alt="img" width="25" height="25" />Building **APIs** with **FastAPI**, **Flask**, and **Django**
+- <img src="assets/images/img2.webp" alt="img" width="25" height="25" />Curious about **LLMs**, **Transformers**, and modern AI system design
+- <img src="assets/images/img2.webp" alt="img" width="25" height="25" />Sharing my learning journey and projects on **[My Portfolio](https://aatansen.github.io)** <img src="assets/images/img4.webp" width="15" height="15" />
 
 ## <img src="assets/images/img3.webp" alt="img" width="25" height="25" /> This week I spent my time on
 
@@ -41,6 +37,9 @@
 </table>
 
 ## <img src="assets/images/img9.webp" alt="img" width="25" height="25" /> Technical Skills
+
+> [!NOTE]
+> *Tools and technologies I actively use or am currently learning. Skill depth varies and improves over time.*
 
 <table align="center">
   <tr>
