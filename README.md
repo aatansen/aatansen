@@ -11,7 +11,9 @@
 <h3 align="center">
 <a href="https://github.com/aatansen"><img src="https://komarev.com/ghpvc/?username=aatansen" alt="Tansen's profile view"></a>
 <a href="https://github.com/aatansen?tab=followers"><img src="https://img.shields.io/github/followers/aatansen?label=Followers&style=social" alt="gitHub badge"></a>
-<a href="https://twitter.com/aatansen" target="blank"><img src="https://img.shields.io/twitter/follow/aatansen?style=social" alt="aatansen" /></a></h3>
+<a href="https://twitter.com/aatansen" target="blank"><img src="https://img.shields.io/twitter/follow/aatansen?style=social" alt="aatansen" /></a>
+<a href="https://www.supportkori.com/aatansen"><img src="https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logoColor=black" alt="Buy Me A Coffee"></a>
+<a href="https://rebrand.ly/aatansen"><img src="https://img.shields.io/badge/My%20Resume-Download-0077B5?style=flat-square&logo=files&logoColor=white" alt="My Resume"></a></h3>
 
 ## <img src="assets/images/img1.webp" alt="img" width="25" height="25" /> About Me
 
@@ -186,6 +188,13 @@
 <a href="https://twitter.com/aatansen"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
 <a href="https://www.facebook.com/aatansen"><img src="https://img.icons8.com/fluency/50/000000/facebook.png" alt="Facebook"/></a>
 </p>
+
+## <img src="assets/images/img11.webp" alt="img" width="25" height="25" /> Support Me
+
+<p align="left">
+<a href="https://www.supportkori.com/aatansen"><strong>Buy me a coffee</strong></a> - Your support helps me continue learning and building amazing projects!
+</p>
+
 <div align="center">
 <i>Random dev joke<img src="assets/images/img8.webp" alt="img" width="25" height="25" /></i><br>
 <a href="https://github.com/aatansen?tab=repositories"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
