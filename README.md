@@ -27,13 +27,26 @@
 
 ## <img src="assets/images/img3.webp" alt="img" width="25" height="25" /> This week I spent my time on
 
+<p align="center">
+  <img
+    src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aatansen&hide_title=true&hide_border=true&bg_color=00000000&text_color=777"
+    alt="Time Spent"
+  />
+</p>
+
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aatansen&hide_title=true&hide_border=true&bg_color=00000000&text_color=777" alt="Time Spent"/>
+    <td align="center">
+      <img
+        src="https://codeforces-stats-vlx.vercel.app/api/card?username=aatansen&theme=dark"
+        alt="Codeforces Stats"
+      />
     </td>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/aatansen?theme=dark&font=Montserrat&ext=activity" alt="LeetCode Stats"/>
+    <td align="center">
+      <img
+        src="https://leetcard.jacoblin.cool/aatansen?theme=dark&font=Montserrat&ext=activity"
+        alt="LeetCode Stats"
+      />
     </td>
   </tr>
 </table>
