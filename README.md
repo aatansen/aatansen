@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/images/tansen.svg" width="450px" height="auto" alt='Tansen'>
+<img src="https://pxdrop.online/raw/dbdoa0i81qec73f6pdq0" width="450px" height="auto" alt='Tansen'>
 
 </div>
 
